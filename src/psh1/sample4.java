@@ -6,6 +6,7 @@ public class sample4
 	{
 		sample4.Sname();
 		sample4.sname("Ganesh");
+		System.out.println("Sagar");
 		
 	}
 	public static void Sname() 
